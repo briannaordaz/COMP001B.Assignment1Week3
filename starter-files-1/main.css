@@ -16,11 +16,12 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	float: left;
+	width: 25%;
 }
 
 footer {
-
+	text-align: left;
 }
 
 header {
@@ -29,14 +30,17 @@ header {
 
 img {
 	max-width: 75%;
+	
 }
 
 main {
-
+	float: left;
+	width: 50%;
 }
 
 nav {
-
+	float: left;
+	width: 25%;
 }
 
 #copyright {
