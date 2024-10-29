@@ -21,11 +21,12 @@ aside {
 }
 
 footer {
-	text-align: left;
+	position: absolute;
+	bottom: 0%;
 }
 
 header {
-
+	text-align: left;
 }
 
 img {
@@ -48,5 +49,5 @@ nav {
 }
 
 #main-container {
-
+	width: 100%;
 }
